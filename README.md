@@ -3,10 +3,6 @@ This is repository is for TCI Group Project.
 
 [![pipeline status](https://git.fhict.nl/I377620/tci-group9/badges/master/pipeline.svg)](https://git.fhict.nl/I377620/tci-group9/-/commits/master)
 
-#### Group members
-* Kasper Hämäläinen
-* Kheir Almosally
-* Ali Alalao
 
 ## Getting Started
 Clone this repo and spin it up with your favorite IDE, such as IntelliJ.
